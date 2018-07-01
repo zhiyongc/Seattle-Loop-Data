@@ -1,11 +1,11 @@
 # Seattle Inductive Loop Detector Dataset V.1 (2015)
 
 > Dataset for *Traffic Forecasting*
-<> ![Image](https://github.com/zhiyongc/Seattle-Loop-Data/blob/master/DataLoop.png =250x250)
 
 > <img src="https://github.com/zhiyongc/Seattle-Loop-Data/blob/master/DataLoop.png" width="600" height="400"></img>
-### Data Download Link: [Seattle Loop Dataset](https://drive.google.com/drive/folders/1Ms8fEpXBlWMVXpPvHbWTqWiHNB6-qaJy?usp=sharing)
-#### Data files contained in the download link
+### Data Download Link: [Seattle Loop Dataset](https://drive.google.com/drive/folders/1XuK0fgI6lmSUzmToyDdHQy8CPunlm5yr?usp=sharing)
+#### The data download link contains a list of files:
+* speed_matrix_2015
 * Seattle loop data: a spatio-temporal matrix with headers
 
 #### The videos are recorded under multiple weather or light scenarios for experimental comparison. Scenarios：
