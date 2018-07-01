@@ -1,7 +1,7 @@
 # Seattle Inductive Loop Detector Dataset V.1 (2015)
 
 > Dataset for our work: *A vision-based hierarchical framework for autonomous front-vehicle taillights detection and signal recognition*
-![Image](https://github.com/zhiyongc/Seattle-Loop-Data/blob/master/DataLoop.png =100x20)
+![Image](https://github.com/zhiyongc/Seattle-Loop-Data/blob/master/DataLoop.png | width=100)
 ### Data Download Link: [Vehicle Rear Light Dataset](https://drive.google.com/drive/folders/1Ms8fEpXBlWMVXpPvHbWTqWiHNB6-qaJy?usp=sharing)
 #### This dataset contains several videos recorded by a vehicle mounted camera. All the videos are recorded in Taipei.
 #### The videos are recorded under multiple weather or light scenarios for experimental comparison. Scenarios：
