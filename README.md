@@ -14,6 +14,11 @@
 
 A demo of the speed_matrix_2015 is shown as the following figure. The horizontal header denotes the milepost and the vertical header indicates the timestamps. 
 > <img src="https://github.com/zhiyongc/Seattle-Loop-Data/blob/master/Data_Sample.PNG" width="700" height="280"></img>
+The name of each milepost header contains 11 characters:
+* 1 char: 'd' or 'i', i.e. decreasing direction or increasing direction.
+* 2-4 chars: route name, e.g. '405' demonstrates the route I-405.
+* 5-6 chars: 'es' has no meanings here.
+* 7-11 chars: milepost, e.g. '15036' demonstrates the 150.36 milepost.
 
 ---
 ### Data Download Link: [Seattle Loop Dataset](https://drive.google.com/drive/folders/1XuK0fgI6lmSUzmToyDdHQy8CPunlm5yr?usp=sharing)
