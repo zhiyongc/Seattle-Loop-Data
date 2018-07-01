@@ -18,8 +18,8 @@
 * Timestamp
 #### If you use this dataset in your work, please cite the following reference:
 ###### Reference:
-`Cui, Z., Ke, R., & Wang, Y. (2018). Deep Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction. arXiv preprint arXiv:1801.02143.`
-`Cui, Z., Henrickson, K., Ke, R., & Wang, Y. (2018). High-Order Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting. arXiv preprint arXiv:1802.07007.`
+* `Cui, Z., Ke, R., & Wang, Y. (2018). Deep Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction. arXiv preprint arXiv:1801.02143.`
+* `Cui, Z., Henrickson, K., Ke, R., & Wang, Y. (2018). High-Order Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting. arXiv preprint arXiv:1802.07007.`
 ###### Bitex:
 ```
 @article{cui2018deep,
