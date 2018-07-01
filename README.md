@@ -13,7 +13,7 @@
 * `nodes_loop_mp_list.csv`: List of loop detectors' milepost, with the same order of that in the Loop Speed Matrix 
 
 A demo of the speed_matrix_2015 is shown as the following figure. The horizontal header denotes the milepost and the vertical header indicates the timestamps. 
-> <img src="https://github.com/zhiyongc/Seattle-Loop-Data/blob/master/Data_Sample.PNG" width="600" height="400"></img>
+> <img src="https://github.com/zhiyongc/Seattle-Loop-Data/blob/master/Data_Sample.PNG" width="800" height="300"></img>
 
 ---
 ### Data Download Link: [Seattle Loop Dataset](https://drive.google.com/drive/folders/1XuK0fgI6lmSUzmToyDdHQy8CPunlm5yr?usp=sharing)
