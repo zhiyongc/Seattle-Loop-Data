@@ -1,6 +1,6 @@
 # Seattle Inductive Loop Detector Dataset V.1 (2015)
 
-> Dataset for *Traffic Forecasting*
+> Dataset for *Network-wide Traffic Forecasting*
 
 > <img src="https://github.com/zhiyongc/Seattle-Loop-Data/blob/master/DataLoop.png" width="600" height="400"></img>
 
