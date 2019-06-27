@@ -4,7 +4,7 @@
 
 > <img src="https://github.com/zhiyongc/Seattle-Loop-Data/blob/master/DataLoop.png" width="600" height="400"></img>
 
-#### The data is collected by the inductive loop detectors deployed on freeways in Seattle area. The freeways contains I-5, I-405, I-90, and SR-520, shown in the above picture. This dataset contains spatio-temporal speed information of the freeway system. In the picture, each blue icon demonstrates loop detectors at a milepost. The speed information at a milepost is averaged from multiple loop detectors on the mainlanes in a same direction at the specific milepost. The time interal of the dataset is 5-minute. 
+#### The data is collected by the inductive loop detectors deployed on freeways in Seattle area. The freeways contains I-5, I-405, I-90, and SR-520, shown in the above picture. This dataset contains spatio-temporal speed information of the freeway system. In the picture, each blue icon demonstrates loop detectors at a milepost. The speed information at a milepost is averaged from multiple loop detectors on the mainlanes in a same direction at the specific milepost. The time interval of the dataset is 5-minute. 
 ---
 #### The data download link contains a list of files:
 * `speed_matrix_2015`: Loop Speed Matrix, which is a pickled file that can be read by pandas or other python packages.
