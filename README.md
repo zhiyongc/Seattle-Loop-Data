@@ -32,7 +32,7 @@ Three Seattle loop detector datasets (pickled files) are added to the download l
 #### If you use this dataset in your work, please cite the following reference:
 ###### Reference:
 * `Cui, Z., Ke, R., & Wang, Y. (2018). Deep Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction. arXiv preprint arXiv:1801.02143.`
-* `Cui, Z., Henrickson, K., Ke, R., & Wang, Y. (2018). High-Order Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting. arXiv preprint arXiv:1802.07007.`
+* `Cui, Z., Henrickson, K., Ke, R., & Wang, Y. (2019). Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting. IEEE Transactions on Intelligent Transportation Systems.`
 ###### BibTex:
 ```
 @article{cui2018deep,
@@ -41,11 +41,12 @@ Three Seattle loop detector datasets (pickled files) are added to the download l
   journal={arXiv preprint arXiv:1801.02143},
   year={2018}
 } ,
-@article{cui2018high,
-  title={High-Order Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting},
+@article{cui2019traffic,
+  title={Traffic graph convolutional recurrent neural network: A deep learning framework for network-scale traffic learning and forecasting},
   author={Cui, Zhiyong and Henrickson, Kristian and Ke, Ruimin and Wang, Yinhai},
-  journal={arXiv preprint arXiv:1802.07007},
-  year={2018}
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2019},
+  publisher={IEEE}
 }
 ```
 #### Note: This dataset should only be used for research.
