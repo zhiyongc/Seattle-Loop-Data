@@ -21,6 +21,11 @@ The name of each milepost header contains 11 characters:
   * 5-6 chars: 'es' has no meanings here.
   * 7-11 chars: milepost, e.g. '15036' demonstrates the 150.36 milepost.
 
+#### Update (2021 Jan.)
+Three Seattle loop detector datasets (pickled files) are added to the download link:
+* `volume_avg_matrix_2015`: containing the averaged volume over all lanes of a road segment (a set of loop detectors)
+* `volume_total_matrix_2015`: containing the total volume information (total volume = averaged volume * lane number)
+* `occupancy_avg_matrix_2015`: containning the averaged occupancy information.
 ---
 ### Data Download Link: [Seattle Loop Dataset](https://drive.google.com/drive/folders/1XuK0fgI6lmSUzmToyDdHQy8CPunlm5yr?usp=sharing)
 ---
