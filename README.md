@@ -27,7 +27,8 @@ Three Seattle loop detector datasets (pickled files) are added to the download l
 * `volume_total_matrix_2015`: containing the **total volume** information (total volume = averaged volume * lane number)
 * `occupancy_avg_matrix_2015`: containning the **averaged occupancy** information.
 ---
-### Data Download Link: [Seattle Loop Dataset](https://drive.google.com/drive/folders/1XuK0fgI6lmSUzmToyDdHQy8CPunlm5yr?usp=sharing)
+### Data Download Link: [Seattle Loop Dataset](https://drive.google.com/drive/folders/1E-rRwIPFDZcTWc7zZDcyd4XbIgecW97q?usp=sharing)
+<!-- (https://drive.google.com/drive/folders/1XuK0fgI6lmSUzmToyDdHQy8CPunlm5yr?usp=sharing) -->
 ---
 #### If you use this dataset in your work, please cite the following reference:
 ###### Reference:
